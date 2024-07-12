@@ -1,0 +1,12 @@
+date,task,topic,link,status,solvedByMyself,notes
+2024-07-06,206,Linked Lists,https://leetcode.com/problems/reverse-linked-list/description/,Solved,No,Struggled and solved with help
+2024-07-06,1721,Linked Lists,https://leetcode.com/problems/reverse-linked-list/description/,Solved,No,Struggled and solved with help
+2024-07-07,21,Linked Lists,https://leetcode.com/problems/merge-two-sorted-lists/description/,Solved,Yes,Had a problem with insert to the end
+2024-07-07,92,Linked Lists,https://leetcode.com/problems/reverse-linked-list-ii/description/,Solved,Yes,Hideous solution
+2024-07-09,143,Linked Lists,https://leetcode.com/problems/reorder-list/description/,Solved,No,Struggled with the last phase. Need to repeat next day!
+2024-07-10,19,Linked Lists,https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/,Solved,Yes,Not optimal solution because calculating all size of the list
+2024-07-10,92,Linked Lists,https://leetcode.com/problems/reverse-linked-list-ii/description/,Repeated,Yes,Repeated
+2024-07-10,143,Linked Lists,https://leetcode.com/problems/reorder-list/description/,Repeated,No,Repeated
+2024-07-11,138,Linked Lists,https://leetcode.com/problems/copy-list-with-random-pointer/description/,Solved,No,Need more time to think because just before asking for help intuitively got a solution
+2024-07-12,2,Linked Lists,https://leetcode.com/problems/add-two-numbers/description/,Solved,Yes,-
+2024-07-12,141,Linked Lists,https://leetcode.com/problems/linked-list-cycle/description/,Solved,Yes,-

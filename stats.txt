@@ -1,0 +1,34 @@
+6th July 2024 (Linked Lists)
+
+206. https://leetcode.com/problems/reverse-linked-list/description/
+1721. https://leetcode.com/problems/reverse-linked-list/description/
+
+7th July 2024 (Linked Lists)
+21. https://leetcode.com/problems/merge-two-sorted-lists/description/
+92. https://leetcode.com/problems/reverse-linked-list-ii/description/
+
+9th July 2024 (Linked Lists)
+143. https://leetcode.com/problems/reorder-list/description/
+
+10th July 2024(Linked Lists)
+Repeated: 92, 143
+Solved: 19 https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+
+11th July 2024(Linked Lists)
+Solved: 138 https://leetcode.com/problems/copy-list-with-random-pointer/description/
+
+12th July 2024(Linked Lists)
+Solved: 2 https://leetcode.com/problems/add-two-numbers/description/, 141 https://leetcode.com/problems/linked-list-cycle/description/
+
+Solved by myself:
+21(Had a problem with insert to the end)
+92 (Hideous solution)
+19 (Not optimal solution because calculating all size of the list)
+2
+141
+
+Solved with help:
+206
+1721
+143 (Struggled with the last phase. Need to repeat next day!)
+138 (Need more time to think because just before asking for help intuitively got a solution)
