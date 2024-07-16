@@ -20,14 +20,29 @@ Solved: 138 https://leetcode.com/problems/copy-list-with-random-pointer/descript
 12th July 2024(Linked Lists)
 Solved: 2 https://leetcode.com/problems/add-two-numbers/description/, 141 https://leetcode.com/problems/linked-list-cycle/description/
 
+13th July 2024(Linked Lists)
+Goal: repeat all previous tasks - Done!
+
+14th July 2024(Linked Lists)
+Solved: 287.https://leetcode.com/problems/find-the-duplicate-number/description/
+
+16th July 2024(Linked Lists)
+Solved:
+146. https://leetcode.com/problems/lru-cache/
+121. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ (But didn't add explanation)
+
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
 19 (Not optimal solution because calculating all size of the list)
 2
 141
+287
+121
 
 Solved with help:
+146
 206
 1721
 143 (Struggled with the last phase. Need to repeat next day!)
