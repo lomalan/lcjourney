@@ -31,6 +31,12 @@ Solved:
 146. https://leetcode.com/problems/lru-cache/
 121. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ (But didn't add explanation)
 
+17th July 2024(Linked Lists)
+Solved:
+23. https://leetcode.com/problems/merge-k-sorted-lists/description/
+
+19th July 2024(Linked Lists)
+Solved: 25. https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -40,10 +46,13 @@ Solved by myself:
 141
 287
 121
+25(But not optimal solution)
 
 Solved with help:
+23
 146
 206
 1721
 143 (Struggled with the last phase. Need to repeat next day!)
 138 (Need more time to think because just before asking for help intuitively got a solution)
+25(optimal one)
