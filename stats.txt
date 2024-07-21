@@ -38,6 +38,14 @@ Solved:
 19th July 2024(Linked Lists)
 Solved: 25. https://leetcode.com/problems/reverse-nodes-in-k-group/
 
+20th July(Sliding window)
+Repeated: 121(and added explanation)
+
+21th July(Sliding window)
+Solved:
+3 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+424 https://leetcode.com/problems/longest-repeating-character-replacement/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -49,6 +57,8 @@ Solved by myself:
 25(But not optimal solution)
 
 Solved with help:
+3
+424
 23
 146
 206
