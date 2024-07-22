@@ -1,30 +1,36 @@
 6th July 2024 (Linked Lists)
-
+Solved:
 206. https://leetcode.com/problems/reverse-linked-list/description/
 1721. https://leetcode.com/problems/reverse-linked-list/description/
 
 7th July 2024 (Linked Lists)
+Solved:
 21. https://leetcode.com/problems/merge-two-sorted-lists/description/
 92. https://leetcode.com/problems/reverse-linked-list-ii/description/
 
 9th July 2024 (Linked Lists)
+Solved:
 143. https://leetcode.com/problems/reorder-list/description/
 
 10th July 2024(Linked Lists)
 Repeated: 92, 143
-Solved: 19 https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+Solved:
+19. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 
 11th July 2024(Linked Lists)
-Solved: 138 https://leetcode.com/problems/copy-list-with-random-pointer/description/
+Solved:
+138. https://leetcode.com/problems/copy-list-with-random-pointer/description/
 
 12th July 2024(Linked Lists)
-Solved: 2 https://leetcode.com/problems/add-two-numbers/description/, 141 https://leetcode.com/problems/linked-list-cycle/description/
+Solved:
+2. https://leetcode.com/problems/add-two-numbers/description/, 141 https://leetcode.com/problems/linked-list-cycle/description/
 
 13th July 2024(Linked Lists)
 Goal: repeat all previous tasks - Done!
 
 14th July 2024(Linked Lists)
-Solved: 287.https://leetcode.com/problems/find-the-duplicate-number/description/
+Solved:
+287. https://leetcode.com/problems/find-the-duplicate-number/description/
 
 16th July 2024(Linked Lists)
 Solved:
@@ -36,15 +42,22 @@ Solved:
 23. https://leetcode.com/problems/merge-k-sorted-lists/description/
 
 19th July 2024(Linked Lists)
-Solved: 25. https://leetcode.com/problems/reverse-nodes-in-k-group/
+Solved:
+25. https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 20th July(Sliding window)
 Repeated: 121(and added explanation)
 
 21th July(Sliding window)
 Solved:
-3 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-424 https://leetcode.com/problems/longest-repeating-character-replacement/description/
+3. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+424. https://leetcode.com/problems/longest-repeating-character-replacement/description/
+567. https://leetcode.com/problems/permutation-in-string/description/ (need to add explanation)
+
+22nd July
+Repeated:
+All previous sliding window tasks
+
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -55,6 +68,7 @@ Solved by myself:
 287
 121
 25(But not optimal solution)
+567
 
 Solved with help:
 3
@@ -66,3 +80,6 @@ Solved with help:
 143 (Struggled with the last phase. Need to repeat next day!)
 138 (Need more time to think because just before asking for help intuitively got a solution)
 25(optimal one)
+
+regex for solved issues
+\b\d+\. \b
