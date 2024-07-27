@@ -54,9 +54,24 @@ Solved:
 424. https://leetcode.com/problems/longest-repeating-character-replacement/description/
 567. https://leetcode.com/problems/permutation-in-string/description/ (need to add explanation)
 
-22nd July
+22nd July(Sliding window)
 Repeated:
 All previous sliding window tasks
+
+23rd July(Sliding window)
+Solved:
+76. https://leetcode.com/problems/minimum-window-substring/ (need to repeat next day and add explanations)
+
+24th July(Sliding window)
+Added explanation for 76
+
+25th July(Sliding window)
+Solved:
+239. https://leetcode.com/problems/sliding-window-maximum/description/ (need to add an explanation)
+
+26th July(Sliding window)
+Repeated:
+239. https://leetcode.com/problems/sliding-window-maximum/description/ (need to add an explanation)
 
 
 Solved by myself:
@@ -80,6 +95,8 @@ Solved with help:
 143 (Struggled with the last phase. Need to repeat next day!)
 138 (Need more time to think because just before asking for help intuitively got a solution)
 25(optimal one)
+76
+239
 
 regex for solved issues
 \b\d+\. \b
