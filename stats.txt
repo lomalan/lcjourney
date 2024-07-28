@@ -71,7 +71,20 @@ Solved:
 
 26th July(Sliding window)
 Repeated:
-239. https://leetcode.com/problems/sliding-window-maximum/description/ (need to add an explanation)
+239 https://leetcode.com/problems/sliding-window-maximum/description/ (need to add an explanation)
+
+27th July(Hashing and Arrays)
+Repeated:
+143, 206, 21
+Solved:
+217. https://leetcode.com/problems/contains-duplicate/description/
+242. https://leetcode.com/problems/valid-anagram/description/
+1. https://leetcode.com/problems/two-sum/description/
+49. https://leetcode.com/problems/group-anagrams/description/
+
+28th July(Hashing and Arrays)
+Solved:
+347. https://leetcode.com/problems/top-k-frequent-elements/description/
 
 
 Solved by myself:
@@ -84,6 +97,10 @@ Solved by myself:
 121
 25(But not optimal solution)
 567
+217
+242
+1
+49
 
 Solved with help:
 3
@@ -97,6 +114,7 @@ Solved with help:
 25(optimal one)
 76
 239
+347
 
 regex for solved issues
 \b\d+\. \b
