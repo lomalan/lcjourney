@@ -86,6 +86,9 @@ Solved:
 Solved:
 347. https://leetcode.com/problems/top-k-frequent-elements/description/
 
+31st July
+Solved:
+238. https://leetcode.com/problems/product-of-array-except-self/
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -115,6 +118,7 @@ Solved with help:
 76
 239
 347
+238
 
 regex for solved issues
 \b\d+\. \b
