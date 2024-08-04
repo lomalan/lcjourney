@@ -86,9 +86,24 @@ Solved:
 Solved:
 347. https://leetcode.com/problems/top-k-frequent-elements/description/
 
-31st July
+31st July(Hashing and Arrays)
 Solved:
 238. https://leetcode.com/problems/product-of-array-except-self/
+
+1st August(Hashing and Arrays)
+Solved:
+36. https://leetcode.com/problems/valid-sudoku/description/
+
+2nd August(Hashing and Arrays)
+Solved:
+128. https://leetcode.com/problems/longest-consecutive-sequence/description/
+
+3rd August(Hashing and Arrays)
+Repeated: All prev tasks for hashing and arrays
+
+4th August(Hashing and Arrays)
+Solved:
+147. https://neetcode.io/problems/string-encode-and-decode
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -104,6 +119,7 @@ Solved by myself:
 242
 1
 49
+147
 
 Solved with help:
 3
@@ -119,6 +135,8 @@ Solved with help:
 239
 347
 238
+128
+36
 
 regex for solved issues
 \b\d+\. \b
