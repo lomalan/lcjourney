@@ -101,9 +101,27 @@ Solved:
 3rd August(Hashing and Arrays)
 Repeated: All prev tasks for hashing and arrays
 
-4th August(Hashing and Arrays)
+4th August(Hashing and Arrays and Two Pointers)
 Solved:
 147. https://neetcode.io/problems/string-encode-and-decode
+125. https://leetcode.com/problems/valid-palindrome/description/
+
+5th August(Two Pointers)
+Solved:
+167. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+
+6th August(Two Pointers)
+Solved:
+15. https://leetcode.com/problems/3sum/
+
+7th August(Two Pointers)
+Solved:
+11. https://leetcode.com/problems/container-with-most-water/
+
+9th August(Two Pointers, Stack)
+Solved:
+42. https://leetcode.com/problems/trapping-rain-water/description/
+20. https://leetcode.com/problems/valid-parentheses/description/
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -120,6 +138,7 @@ Solved by myself:
 1
 49
 147
+167
 
 Solved with help:
 3
@@ -137,6 +156,10 @@ Solved with help:
 238
 128
 36
+125
+15
+42
+20
 
 regex for solved issues
 \b\d+\. \b
