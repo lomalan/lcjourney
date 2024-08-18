@@ -1,7 +1,6 @@
-package twopointers;
+package stack;
 
 import org.junit.jupiter.api.Test;
-import stack.ValidParentheses;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;

@@ -123,6 +123,39 @@ Solved:
 42. https://leetcode.com/problems/trapping-rain-water/description/
 20. https://leetcode.com/problems/valid-parentheses/description/
 
+11th August
+Repeated:
+Every Two Pointers task
+Solved:
+155. https://leetcode.com/problems/min-stack/description/
+
+12th August(Stack)
+Solved:
+150. https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+
+13th August(Stack)
+Solved:
+22. https://leetcode.com/problems/generate-parentheses/description/
+
+14th August(Stack)
+Solved:
+739. https://leetcode.com/problems/daily-temperatures/description/
+
+16th Aug
+Solved:
+853. https://leetcode.com/problems/car-fleet/description/
+
+17th Aug
+Repeated stack solutions
+
+18th Aug (Stack and Binary search)
+Solved:
+84. https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+704. https://leetcode.com/problems/binary-search/description/
+74. https://leetcode.com/problems/search-a-2d-matrix/description/
+875. https://leetcode.com/problems/koko-eating-bananas/description/
+153. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -139,6 +172,12 @@ Solved by myself:
 49
 147
 167
+155
+150
+739
+704
+74
+153
 
 Solved with help:
 3
@@ -160,6 +199,10 @@ Solved with help:
 15
 42
 20
+22
+853
+84
+875
 
 regex for solved issues
 \b\d+\. \b

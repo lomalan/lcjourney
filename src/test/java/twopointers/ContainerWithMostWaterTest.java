@@ -26,4 +26,9 @@ public class ContainerWithMostWaterTest {
     void multipleSizedContainerTest3() {
         assertEquals(2, containerWithMostWater.maxArea(new int[]{1, 2, 1}));
     }
+
+    @Test
+    void multipleSizedContainerTest4() {
+        assertEquals(3, containerWithMostWater.maxArea(new int[]{1, 1, 1, 5}));
+    }
 }
