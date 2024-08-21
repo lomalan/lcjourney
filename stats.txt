@@ -156,6 +156,11 @@ Solved:
 875. https://leetcode.com/problems/koko-eating-bananas/description/
 153. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 
+21st Aug (Binary search)
+Solved:
+33. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+981. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -178,6 +183,8 @@ Solved by myself:
 704
 74
 153
+33
+981
 
 Solved with help:
 3
