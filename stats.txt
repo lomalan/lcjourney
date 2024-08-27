@@ -161,6 +161,19 @@ Solved:
 33. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 981. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
+26th Aug (Trees)
+Solved:
+226. https://leetcode.com/problems/invert-binary-tree/description/
+104. https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+543. https://leetcode.com/problems/diameter-of-binary-tree/description/
+110. https://leetcode.com/problems/balanced-binary-tree/description/
+100. https://leetcode.com/problems/same-tree/description/
+572. https://leetcode.com/problems/subtree-of-another-tree/
+
+27th Aug (Trees)
+Solved:
+235. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -185,6 +198,11 @@ Solved by myself:
 153
 33
 981
+226
+104
+543
+110
+100
 
 Solved with help:
 3
@@ -210,6 +228,8 @@ Solved with help:
 853
 84
 875
+572
+235
 
 regex for solved issues
 \b\d+\. \b
