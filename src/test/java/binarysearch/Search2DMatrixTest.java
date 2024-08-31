@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class Search2DMatrixTest {
+public class Search2DMatrixTest {
     private final Search2DMatrix search2DMatrix = new Search2DMatrix();
 
     int[][] matrix = new int[][]{
@@ -15,17 +15,17 @@ class Search2DMatrixTest {
     };
 
     @Test
-    void testElementNotFound() {
+    public void testElementNotFound() {
         assertFalse(search2DMatrix.searchMatrix(matrix, 13));
     }
 
     @Test
-    void testElementFound() {
+    public void testElementFound() {
         assertTrue(search2DMatrix.searchMatrix(matrix, 5));
     }
 
     @Test
-    void testElementFoundInTheEnd() {
+    public void testElementFoundInTheEnd() {
         assertTrue(search2DMatrix.searchMatrix(matrix, 60));
     }
 }

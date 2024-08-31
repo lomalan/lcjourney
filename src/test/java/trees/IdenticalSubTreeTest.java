@@ -4,11 +4,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class IdenticalSubTreeTest {
+public class IdenticalSubTreeTest {
     private final IdenticalSubTree identicalSubTree = new IdenticalSubTree();
 
     @Test
-    void nonidenticalSubtree() {
+    public void nonidenticalSubtree() {
         var tree = new TreeNode(1,
                 new TreeNode(1,
                         new TreeNode(1,
@@ -21,7 +21,7 @@ class IdenticalSubTreeTest {
     }
 
     @Test
-    void identicalSubtree() {
+    public void identicalSubtree() {
         var tree = new TreeNode(3,
                 new TreeNode(4, new TreeNode(1), new TreeNode(2)),
                 new TreeNode(5));
@@ -32,7 +32,7 @@ class IdenticalSubTreeTest {
     }
 
     @Test
-    void nonIdenticalSubtree() {
+    public void nonIdenticalSubtree() {
         var tree = new TreeNode(3,
                 new TreeNode(4, new TreeNode(1), new TreeNode(2, new TreeNode(0), null)),
                 new TreeNode(5));
