@@ -183,6 +183,15 @@ Solved:
 Solved:
 1448. https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
 
+31th Aug (Trees)
+Solved:
+98. https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/https://leetcode.com/problems/validate-binary-search-tree/
+
+1st September (Trees)
+Solved:
+230. https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+105. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -242,6 +251,9 @@ Solved with help:
 875
 572
 235
+98
+230
+105
 
 regex for solved issues
 \b\d+\. \b
