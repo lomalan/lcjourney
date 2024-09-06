@@ -192,6 +192,18 @@ Solved:
 230. https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 105. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
 
+2nd September (Trees)
+Solved:
+124. https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+
+3rd September (Tres)
+Solved:
+297. https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
+
+6th September (Trees)
+Repeated trees tasks
+
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -254,6 +266,8 @@ Solved with help:
 98
 230
 105
+124
+297
 
 regex for solved issues
 \b\d+\. \b

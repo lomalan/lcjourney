@@ -6,6 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class RightSideView {
+    
     public List<Integer> rightSideView(TreeNode root) {
         Deque<TreeNode> nodes = new LinkedList<>();
         List<Integer> result = new ArrayList<>();

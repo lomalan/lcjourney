@@ -1,6 +1,7 @@
 package binarysearch;
 
 public class FindMinInRotated {
+
     public int findMin(int[] nums) {
         int l = 0;
         int r = nums.length - 1;
