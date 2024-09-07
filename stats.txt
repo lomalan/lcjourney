@@ -203,6 +203,9 @@ Solved:
 6th September (Trees)
 Repeated trees tasks
 
+7th September (Tries)
+208. https://leetcode.com/problems/implement-trie-prefix-tree/description/
+
 
 Solved by myself:
 21(Had a problem with insert to the end)
