@@ -206,6 +206,15 @@ Repeated trees tasks
 7th September (Tries)
 208. https://leetcode.com/problems/implement-trie-prefix-tree/description/
 
+9th September (Tries)
+Repeated and solved on LC
+208.https://leetcode.com/problems/implement-trie-prefix-tree/description/
+
+14th September(Tries and Heaps)
+703. https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
+211. https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
+671. https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
+1046. https://leetcode.com/problems/last-stone-weight/description/
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -239,6 +248,9 @@ Solved by myself:
 102
 199
 1448
+208
+671
+1046
 
 Solved with help:
 3
@@ -271,6 +283,8 @@ Solved with help:
 105
 124
 297
+703
+211
 
 regex for solved issues
 \b\d+\. \b

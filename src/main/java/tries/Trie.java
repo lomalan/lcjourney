@@ -1,64 +1,47 @@
 package tries;
 
-import java.util.HashMap;
-import java.util.Map;
+class Trie {
 
-public class Trie {
-
-    private final Map<Character, Trie> branches;
-    private boolean isWord;
+    public final  Trie[] children;
+    public boolean isWord;
 
     public Trie() {
-        this.branches = new HashMap<>();
-        this.isWord = false;
+        children = new Trie[26];
+        isWord = false;
     }
 
     public void insert(String word) {
-
+        var current = this;
+        for (char symb : word.toCharArray()) {
+            var trie = current.children[symb - 'a'];
+            if (trie == null) {
+                trie = new Trie();
+                current.children[symb - 'a'] = trie;
+            }
+            current = trie;
+        }
+        current.isWord = true;
     }
 
     public boolean search(String word) {
-        return false;
+        var current = this;
+        for (char symbol : word.toCharArray()) {
+            if (current.children[symbol - 'a'] == null) {
+                return false;
+            }
+            current = current.children[symbol - 'a'];
+        }
+        return current.isWord;
     }
 
     public boolean startsWith(String prefix) {
-        return false;
+        var current = this;
+        for (char symbol : prefix.toCharArray()) {
+            if (current.children[symbol - 'a'] == null) {
+                return false;
+            }
+            current = current.children[symbol - 'a'];
+        }
+        return true;
     }
-//    public void insert(String word) {
-//        var key = word.toCharArray()[0];
-//        if (word.length() == 1) {
-//            isWord = true;
-//            var trie = branches.getOrDefault(key, new Trie());
-//            branches.put(key, trie);
-//        } else {
-//            var trie = branches.getOrDefault(key, new Trie());
-//            branches.put(key, trie);
-//            trie.insert(word.substring(1));
-//        }
-//
-//    }
-//
-//    public boolean search(String word) {
-//        var key = word.toCharArray()[0];
-//        if (word.length() == 1) {
-//            return isWord && branches.containsKey(key);
-//        }
-//        var trie = branches.get(key);
-//        if (trie == null) {
-//            return false;
-//        }
-//        return trie.search(word.substring(1));
-//    }
-//
-//    public boolean startsWith(String prefix) {
-//        var key = prefix.toCharArray()[0];
-//        if (prefix.length() == 1 && branches.containsKey(key)) {
-//            return true;
-//        }
-//        var trie = branches.get(key);
-//        if (trie == null) {
-//            return false;
-//        }
-//        return trie.startsWith(prefix.substring(1));
-//    }
 }
