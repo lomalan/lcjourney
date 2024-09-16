@@ -216,6 +216,10 @@ Repeated and solved on LC
 671. https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
 1046. https://leetcode.com/problems/last-stone-weight/description/
 
+16th September(Heaps)
+215. https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+973. https://leetcode.com/problems/k-closest-points-to-origin/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -251,6 +255,8 @@ Solved by myself:
 208
 671
 1046
+215
+973
 
 Solved with help:
 3
