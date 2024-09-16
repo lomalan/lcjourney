@@ -17,7 +17,7 @@ public class KthLargestInArray {
                 minHeap.add(num);
             }
         }
-        // Phase 3. Return first element in a heap
+        // Phase 4. Return first element in a heap
         return minHeap.remove();
     }
 }
