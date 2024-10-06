@@ -225,6 +225,21 @@ Repeated and solved on LC
 355. https://leetcode.com/problems/design-twitter/description/
 295. https://leetcode.com/problems/find-median-from-data-stream/description/
 
+22-29 Sept
+Repeated LinkedList tasks
+
+29th September
+78. https://leetcode.com/problems/subsets/description/
+39. https://leetcode.com/problems/combination-sum/
+
+6th Oct
+17. https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+131. https://leetcode.com/problems/palindrome-partitioning/description/
+79. https://leetcode.com/problems/word-search/description/
+40. https://leetcode.com/problems/combination-sum-ii/description/
+90. https://leetcode.com/problems/subsets-ii/description/
+46. https://leetcode.com/problems/permutations/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -262,6 +277,7 @@ Solved by myself:
 1046
 215
 973
+39
 
 Solved with help:
 3
@@ -299,6 +315,13 @@ Solved with help:
 621
 355
 295
+78
+17
+131
+79
+40
+90
+46
 
 regex for solved issues
 \b\d+\. \b
