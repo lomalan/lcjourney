@@ -240,6 +240,11 @@ Repeated LinkedList tasks
 90. https://leetcode.com/problems/subsets-ii/description/
 46. https://leetcode.com/problems/permutations/description/
 
+9th Oct
+200. https://leetcode.com/problems/number-of-islands/description/
+695. https://leetcode.com/problems/max-area-of-island/description/
+
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -278,6 +283,8 @@ Solved by myself:
 215
 973
 39
+200
+695
 
 Solved with help:
 3
