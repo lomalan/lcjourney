@@ -244,6 +244,13 @@ Repeated LinkedList tasks
 200. https://leetcode.com/problems/number-of-islands/description/
 695. https://leetcode.com/problems/max-area-of-island/description/
 
+13th Oct
+417. https://leetcode.com/problems/pacific-atlantic-water-flow/description/
+994. https://leetcode.com/problems/rotting-oranges/description/
+
+6th Feb
+Graphs
+
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -329,6 +336,8 @@ Solved with help:
 40
 90
 46
+417
+994
 
 regex for solved issues
 \b\d+\. \b
