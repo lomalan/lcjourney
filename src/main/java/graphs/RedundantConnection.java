@@ -44,4 +44,61 @@ public class RedundantConnection {
         }
         return new int[0];
     }
+
+    public int[] redundantConnectionUnion(int[][] edges) {
+        var size = edges.length + 1;
+        var unionFind = new UnionFind(size);
+        for(int[] edge: edges) {
+            var x = edge[0];
+            var y = edge[1];
+            if (!unionFind.union(x, y)) {
+                return new int[]{x, y};
+            }
+        }
+
+        return new int[0];
+    }
+
+    class UnionFind {
+        int[] parent;
+        int[] rank;
+
+        UnionFind(int n) {
+            parent = new int[n];
+            rank = new int[n];
+            for (int i = 0; i < n; i++) {
+                parent[i] = i;
+                rank[i] = 1;
+            }
+        }
+
+        int find(int edge) {
+            if (parent[edge] != edge) {
+                parent[edge] = find(parent[edge]);
+            }
+            return parent[edge];
+        }
+
+        boolean union(int x, int y) {
+            int rootX = find(x);
+            int rootY = find(y);
+
+            if (rootY == rootX) {
+                // Already unified
+                return false;
+            }
+
+            if (rank[rootX] > rank[rootY]) {
+                parent[rootY] = rootX;
+            } else if (rank[rootX] < rank[rootY]) {
+                parent[rootX] = rootY;
+            } else {
+                parent[rootY] = rootX;
+                rank[rootX]++;
+            }
+            return true;
+        }
+    }
+
+
 }
