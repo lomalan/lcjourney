@@ -25,4 +25,15 @@ class NetworkDelayTest {
         assertEquals(-1, networkDelay.networkDelayTime(times, 2, 2));
     }
 
+    @Test
+    void anotherCase() {
+        int[][] times = {{1, 2, 1}, {2, 1, 3}};
+        assertEquals(3, networkDelay.networkDelayTime(times, 2, 2));
+    }
+
+    @Test
+    void trickyCase() {
+        int[][] times = {{1, 2, 1}, {2, 3, 2}, {1, 3, 4}};
+        assertEquals(3, networkDelay.networkDelayTime(times, 3, 1));
+    }
 }

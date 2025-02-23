@@ -15,9 +15,9 @@ public class NetworkDelay {
         }
         int[] dist = new int[n + 1];
         Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[k] = 0;
         PriorityQueue<NodeData> queue = new PriorityQueue<>(Comparator.comparingInt(data -> data.dist));
         queue.add(new NodeData(k, 0));
-        dist[k] = 0;
         while (!queue.isEmpty()) {
             var data = queue.poll();
             if (data.dist > dist[data.node]) {
@@ -31,8 +31,14 @@ public class NetworkDelay {
                 }
             }
         }
-
-        return dist[n] == Integer.MAX_VALUE ? -1 : dist[n];
+        int sum = 0;
+        for (int i = 1; i <= n; i++) {
+            if (dist[i] == Integer.MAX_VALUE) {
+                return -1;
+            }
+           sum = Math.max(dist[i], sum);
+        }
+        return sum == 0  ? -1 : sum;
     }
 
     private class NodeData {
