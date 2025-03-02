@@ -251,6 +251,8 @@ Repeated LinkedList tasks
 6th Feb
 Graphs
 
+2nd Mar
+53. https://leetcode.com/problems/maximum-subarray/description/
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -338,6 +340,7 @@ Solved with help:
 46
 417
 994
+53
 
 regex for solved issues
 \b\d+\. \b
