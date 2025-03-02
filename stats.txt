@@ -253,6 +253,7 @@ Graphs
 
 2nd Mar
 53. https://leetcode.com/problems/maximum-subarray/description/
+55. https://leetcode.com/problems/jump-game/description/
 
 Solved by myself:
 21(Had a problem with insert to the end)
@@ -294,6 +295,7 @@ Solved by myself:
 39
 200
 695
+55 (first Method in JumpGame.java class)
 
 Solved with help:
 3
@@ -341,6 +343,7 @@ Solved with help:
 417
 994
 53
+55(second Method in JumpGame.java class)
 
 regex for solved issues
 \b\d+\. \b
