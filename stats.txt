@@ -255,6 +255,10 @@ Graphs
 53. https://leetcode.com/problems/maximum-subarray/description/
 55. https://leetcode.com/problems/jump-game/description/
 
+4th Mar
+134. https://leetcode.com/problems/gas-station/description/
+45. https://leetcode.com/problems/jump-game-ii/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -344,6 +348,8 @@ Solved with help:
 994
 53
 55(second Method in JumpGame.java class)
+134
+45
 
 regex for solved issues
 \b\d+\. \b
