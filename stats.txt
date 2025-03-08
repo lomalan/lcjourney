@@ -259,6 +259,11 @@ Graphs
 134. https://leetcode.com/problems/gas-station/description/
 45. https://leetcode.com/problems/jump-game-ii/description/
 
+8th Mar
+1899. https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/
+763. https://leetcode.com/problems/partition-labels/description/
+678. https://leetcode.com/problems/valid-parenthesis-string/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -350,6 +355,9 @@ Solved with help:
 55(second Method in JumpGame.java class)
 134
 45
+1899
+763
+678
 
 regex for solved issues
 \b\d+\. \b
