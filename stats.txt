@@ -264,6 +264,9 @@ Graphs
 763. https://leetcode.com/problems/partition-labels/description/
 678. https://leetcode.com/problems/valid-parenthesis-string/description/
 
+11th Mar
+57. https://leetcode.com/problems/insert-interval/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -358,6 +361,7 @@ Solved with help:
 1899
 763
 678
+57
 
 regex for solved issues
 \b\d+\. \b
