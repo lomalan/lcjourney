@@ -270,6 +270,9 @@ Graphs
 12th Mar
 56. https://leetcode.com/problems/merge-intervals/description/
 
+14th July
+70. https://leetcode.com/problems/climbing-stairs/description/
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
@@ -312,6 +315,7 @@ Solved by myself:
 695
 55 (first Method in JumpGame.java class)
 56
+70
 
 Solved with help:
 3
