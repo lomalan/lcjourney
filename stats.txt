@@ -273,6 +273,11 @@ Graphs
 14th July
 70. https://leetcode.com/problems/climbing-stairs/description/
 
+23rd July
+191. https://leetcode.com/problems/number-of-1-bits/description/
+136. https://leetcode.com/problems/single-number/description/
+
+
 Solved by myself:
 21(Had a problem with insert to the end)
 92 (Hideous solution)
