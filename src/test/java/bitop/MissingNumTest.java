@@ -2,6 +2,7 @@ package bitop;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 
 public class MissingNumTest {
@@ -17,5 +18,22 @@ public class MissingNumTest {
     void testMissingNum2() {
         int[] nums = {9,6,4,2,3,5,7,0,1};
         assertEquals(8, missingNum.missingNumber(nums));
+    }
+
+    @Nested
+    class NonBitMissingNum {
+     
+        @Test
+        void testMissingNum1() {
+            int[] nums = {3, 0 , 1};
+            assertEquals(2, missingNum.nonBitMissingNumber(nums));
+        }
+
+        @Test
+        void testMissingNum2() {
+            int[] nums = {9,6,4,2,3,5,7,0,1};
+            assertEquals(8, missingNum.nonBitMissingNumber(nums));
+        }
+   
     }
 }
