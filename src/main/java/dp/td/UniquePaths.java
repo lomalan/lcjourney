@@ -1,4 +1,4 @@
-package dp;
+package dp.td;
 
 public class UniquePaths {
     public int uniquePaths(int m, int n) {
